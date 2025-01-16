@@ -69,7 +69,7 @@
     },
     {
       "name": "Conversion of Isometric to Orthographic view",
-      "short-name": "Isometric-orthographic-view",
+      "short-name": "Isometric-to-orthographic-view",
       "repo": "https://github.com/virtual-labs/exp-Isometric-to-orthographic-view-nitk",
       "tag": "v1.0.0",
       "deploy": true
