@@ -11,11 +11,73 @@
   "baseUrl": "eg-nitk.vlabs.ac.in",
   "introduction": "Engineering Graphics, also known as technical drawing, is a scientific method of communication between designers and manufacturing engineers. It is a precise and standardized way to visually represent technical ideas and designs. Established rules and standards emphasize accuracy and clarity, utilizing specific conventions, symbols, and projections to convey detailed information about objects and structures. This information includes dimensions, shapes, materials, and manufacturing processes. It is fundamental to various engineering disciplines, facilitating the creation and realization of everything from small components to complex systems.",
   "experiments": [
-    
+    {
+      "name": "Introduction to Engineering Drawing",
+      "short-name": "engineering-drawing",
+      "repo": "https://github.com/virtual-labs/exp-introduction-engineering-drawing-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Projection of Points",
+      "short-name": "projections-of-points",
+      "repo": "https://github.com/virtual-labs/exp-projections-of-points-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Projection of Lines - Simple Positions",
+      "short-name": "simple-positions",
+      "repo": "https://github.com/virtual-labs/exp-simple-positions-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Projection of Line iclined to both planes",
+      "short-name": "projections-lines-inclined",
+      "repo": "https://github.com/virtual-labs/exp-projections-of-lines-inclined-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Projection of Planes",
+      "short-name": "projections-of-planes",
+      "repo": "https://github.com/virtual-labs/exp-projections-of-planes-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Projection of Solids",
+      "short-name": "projections-of-solids",
+      "repo": "https://github.com/virtual-labs/exp-projections-of-solids-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Projection of Planes - Auxiliary Plane Method",
+      "short-name": "planes-auxiliary-plane",
+      "repo": "https://github.com/virtual-labs/exp-planes-auxiliary-plane-method-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Projection of Solids - Auxiliary Plane Method",
+      "short-name": "solids-auxiliary-plane",
+      "repo": "https://github.com/virtual-labs/exp-solids-auxiliary-plane-method-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
     {
       "name": "Conversion of Isometric to Orthographic view",
-      "short-name": "Isometric-to-orthographic-view",
+      "short-name": "isometric-to-orthographic-view",
       "repo": "https://github.com/virtual-labs/exp-Isometric-to-orthographic-view-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Conversion of Orthographic to Isometric view",
+      "short-name": "orthographic-to-isometric",
+      "repo": "https://github.com/virtual-labs/exp-orthographic-to-isometric-view-nitk",
       "tag": "v1.0.0",
       "deploy": true
     }
